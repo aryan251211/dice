@@ -1,3 +1,3 @@
 input.onGesture(Gesture.Shake, function () {
-    basic.showNumber(randint(1, 7))
+    basic.showNumber(randint(1, 6))
 })
